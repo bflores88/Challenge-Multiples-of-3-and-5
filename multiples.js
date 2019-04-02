@@ -12,6 +12,5 @@ exports.sumOfAMultiple = function( n ) {
       sum+=i;
     }
   }
-  
   return sum;
 };
